@@ -1,0 +1,7 @@
+base   authimap2
+author Marco Fenoglio
+email  marco.fenoglio@gmail.com
+date   2017-09-06
+name   authimap2 plugin
+desc   Authenticate users against an IMAP server with support to groups
+url    https://github.com/marcofenoglio/dokuwiki-plugin-authimap2
